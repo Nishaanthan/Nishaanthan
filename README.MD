@@ -1,4 +1,4 @@
-### Hi there, I'm Nisanthan K - aka [Nisanthan Kathirkamanathan](https://www.nisanthan.me) 👋
+### Hi there, I'm Nisanthan K - aka [Nisanthan Kathirkamanathan](https://www.nisanthan.dev) 👋
 
 ## I'm a AI/ML Engineer, Web Developer, Mobile Developer, and Teacher!
 - 🔭 I’m currently working as an Software Engineer [Vesess](http://www.hivage.com) !

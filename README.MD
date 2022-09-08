@@ -1,10 +1,10 @@
 ### Hi there, I'm Nisanthan K - aka [Nisanthan Kathirkamanathan](https://www.nisanthan.dev) 👋
 
 ## I'm a AI/ML Engineer, Web Developer, Mobile Developer, and Teacher!
-- 🔭 I’m currently working as an Software Engineer [Vesess](http://www.hivage.com) !
+- 🔭 I’m currently working reading MSc. Web Engineering at TU Chemnitz!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other software developers
-- 🥅 2020 Goals: Learn flutter, firebase, react, ruby on rails
+- 🥅 2022 Goals: Learn Terraform, Ansible & some cloud technologies.
 - ⚡ Fun fact: I love watching movies.
 - 💬 Ask me about AI, ML, React, Node, Flutter
 - 📫 Reach me at nisakathir@gmail.com
@@ -48,9 +48,9 @@
 <br />
 
 ---
-[website]: https://www.nisanthan.me
+[website]: https://www.nisanthan.dev
 [twitter]: https://twitter.com/Nishaanthan
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/nisanthan-kathirkamanathan
-[websiteprofile]: https://www.nisanthan.me/#resume
+[websiteprofile]: https://www.nisanthan.dev/#resume

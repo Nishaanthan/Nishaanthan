@@ -1,7 +1,7 @@
 ### Hi there, I'm Nisanthan K - aka [Nisanthan Kathirkamanathan](https://www.nisanthan.dev) 👋
 
 ## I'm a AI/ML Engineer, Web Developer, Mobile Developer, and Teacher!
-- 🔭 I’m currently working reading MSc. Web Engineering at TU Chemnitz!
+- 🔭 I’m currently reading MSc. Web Engineering at TU Chemnitz!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other software developers
 - 🥅 2022 Goals: Learn Terraform, Ansible & some cloud technologies.

@@ -1,11 +1,13 @@
-### Hi there, I'm Nisanthan K - aka [Nisanthan Kathirkamanathan](https://www.nisanthan.me) 👋
+### Hi there, I'm Nisanthan K - aka [Nisanthan Kathirkamanathan](https://www.nisanthan.dev) 👋
 
-## I'm a Web Developer, Mobile Developer, and Teacher!
-- 🔭 I’m currently working as an Intern Software Engineer [Vesess](http://www.hivage.com) !
+## I'm a AI/ML Engineer, Web Developer, Mobile Developer, and Teacher!
+- 🔭 I’m currently reading MSc. Web Engineering at TU Chemnitz!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other software developers
-- 🥅 2020 Goals: Learn flutter, firebase, react, ruby on rails
+- 🥅 2022 Goals: Learn Terraform, Ansible & some cloud technologies.
 - ⚡ Fun fact: I love watching movies.
+- 💬 Ask me about AI, ML, React, Node, Flutter
+- 📫 Reach me at nisakathir@gmail.com
 
 ### Languages and Tools:
 
@@ -27,6 +29,12 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][websiteprofile]
 
 <br />
+<br />
+
+### Profile & Stats:
+
+[![Nisanthan's github stats](https://github-readme-stats.vercel.app/api?username=Nishaanthan&count_private=true&show_icons=true&theme=vue&hide=stars)](https://github.com/Nishaanthan)
+[![Nisanthan's github programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishaanthan&count_private=true&show_icons=true&theme=vue&layout=compact)](https://github.com/Nishaanthan)
 
 ### Connect with me:
 
@@ -40,9 +48,9 @@
 <br />
 
 ---
-[website]: https://www.nisanthan.me
+[website]: https://www.nisanthan.dev
 [twitter]: https://twitter.com/Nishaanthan
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/nisanthan-kathirkamanathan
-[websiteprofile]: https://www.nisanthan.me/#resume
+[websiteprofile]: https://www.nisanthan.dev/#resume
